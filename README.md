@@ -1,2 +1,2 @@
-https://tiagodecarvalhoestrada.github.io/CNW/Exercicio.bat
+https://tiagodecarvalhoestrada.github.io/CNW/Arquivos/Exercicio.bat
 # CNW
